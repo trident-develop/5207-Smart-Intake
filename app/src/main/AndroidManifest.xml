@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SmartIntake">
         <activity
-            android:name=".MainActivity"
+            android:name="com.xd.smartintake.MainActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/SplashScreen"

@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.xd.smartintake"
+    namespace = "net.kernys.ao"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -12,7 +12,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.xd.smartintake"
+        applicationId = "net.kernys.ao"
         minSdk = 28
         targetSdk = 36
         versionCode = 1
